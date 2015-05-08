@@ -1,2 +1,5 @@
 # hello-world
-Hello world intro repo
+
+hello....this is dog.
+
+attempt 2 to see compares.
